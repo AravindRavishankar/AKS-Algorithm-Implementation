@@ -1,0 +1,2 @@
+to compile run:
+  g++ code.cpp -lntl -lgmp

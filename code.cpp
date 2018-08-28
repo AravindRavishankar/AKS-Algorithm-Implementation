@@ -1,4 +1,4 @@
-//Vanjape Rajas Mangesh
+//aravind ravishankar
 #include<bits/stdc++.h>
 #include<NTL/ZZ.h>
 #include<NTL/ZZX.h>
